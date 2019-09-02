@@ -2,3 +2,4 @@ title: Willkommen auf der Seite von Niktendo!
 description: Hier siehst du meine aktuellen Projekte
 theme: jekyll-theme-cayman
 show_downloads: false
+site.lang: de-DE

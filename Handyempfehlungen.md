@@ -38,9 +38,9 @@ Ein gutes Foto-Smartphone sollte haben:
 
 - Eine gute Kamera-Software (auch im Low-Light): Hier führt Google mir der Google Kamera, die sich aber v.a. bei Xiaomi-Smartphones leicht nachinstallieren lässt
 
-- Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K und flüssiges 4K + schnelle Fotoentwicklung
+- Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K, flüssiges 4K un d eine schnell Verarbeitungszeit
 
-- Ein gutes Kameramodul (64 MP, dann aber ein sehr gutes [**OnePlus**] oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es keinen 865 hat) [Ausnahme:  **Pixel 4**, hier holt die Software allles der "nur" 16MP heraus]
+- Ein gutes Kameramodul (64 MP, dann aber ein sehr gutes [**OnePlus**] oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es keinen 865 hat) [Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus]
 
 ### Zum Display:
 
@@ -66,7 +66,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
 
 **Wer gute Mittelklasse-Smartphones**  sucht, macht mit dem Mi Note 10 (Pro) und dem Redmi Note 9S / Pro nichts falsch, wobei letzteres brandneu ist und noch nicht verfügbar ist. Beim Mi Note 10 hat man Kameratechnisch High-End-Hardware, allerdings ist der Prozessor "nur" ein Prozessor der oberen Mittelklasse, d.h. im 108MP-Kameramodus muss man möglicherweise längere Ladezeiten in Kauf nehmen. Preis-Leistungstechnisch sind die Redmis die bessere Wahl, wenn man keine High-End-Hardware wünscht.
- 
+
 
 **Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia btw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
@@ -83,12 +83,11 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 Als Zweithandy ist ein Handy der (oberen) Mittelklasse sicherlich keine schlechte Wahl, doch sollten hier die Erwartungen nicht besonders hoch sein.
 Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Softwaretechnisch will.
 
-  
 
 **P.S: Kaufe niemals ein Smartphone mit einem Tarif, wenn dieser nicht gerade zu einem Super-Aktionspreis in einem guten Mobilnetz zu haben ist - Ansonsten wird man oftmals über den Tisch gezogen und zahlt am Ende mehr als die UVP des Herstellers!**
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDkxOTExNCwzMzAxMDM2ODksLTE0NT
+eyJoaXN0b3J5IjpbMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NT
 MwMjU3NDVdfQ==
 -->

@@ -71,7 +71,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
 **Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
 
-**Ein Wort zu Huawai/Honor:**
+**Ein Wort zu Huawei/Honor:**
 
 
 **Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 werden, hier ist aber noch nichts seitens Xiaomi bestätigt worden.
@@ -84,8 +84,9 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 **P.S: Kaufe niemals ein Smartphone mit einem Tarif, wenn dieser nicht gerade zu einem Super-Aktionspreis in einem guten Mobilnetz zu haben ist - Ansonsten wird man oftmals über den Tisch gezogen und zahlt am Ende mehr als die UVP des Herstellers!**
 
-Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
+Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODQ5OTA2OSw3MzY0NzY5ODksMTA5ND
-kwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbLTU5MzYwNzc3NSwxODU4NDk5MDY5LDczNj
+Q3Njk4OSwxMDk0OTAyNzYxLDMzMDEwMzY4OSwtMTQ1MzAyNTc0
+NV19
 -->

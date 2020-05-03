@@ -27,13 +27,13 @@ Da wären
 
 ### Zu den Prozessoren:
 
-MediaTek -> Prozessoren von Low-End bis Mittelklasse-Geräten, eher langsam, keine direkte Empfehlung
+MediaTek: Prozessoren von Low-End bis Mittelklasse-Geräten, eher langsam, keine direkte Empfehlung
 
-Qualcomm Snapdragon 6XX, 7XX (Prozessoren der Mittelklasse bzw. oberen Mittelklasse), 855 (Ende 2018), 855+ (Mitte 2019), 865 (Ende 2019) [alles High-End-Prozessoren]
+Qualcomm Snapdragon 6XX, 7XX (Prozessoren der Mittelklasse bzw. oberen Mittelklasse); 855 (Ende 2018), 855+ (Mitte 2019), 865 (Ende 2019) [alles High-End-Prozessoren]
 
 ### Zu den Kameras:
 
-Es gilt Megapixel sind nicht alles, aber vieles:
+Es gilt: Megapixel sind nicht alles, aber vieles:
 
 Ein gutes Foto-Smartphone sollte haben:
 
@@ -87,7 +87,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
   
 
-Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Preisen nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekommt, ggfs. einfach auf ein passendes Angebot warten. Als Zweithandy ist ein Handy der (oberen) Mittelklasse sicherlich keine schlechte Wahl, doch sollten hier die Erwartungen nicht besonders hoch sein... Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Softwaretechnisch will. Viel Spaß beim Auswählen eines tollen Smartphones!
+Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Geräten nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekomm, ggfs. einfach auf ein passendes Angebot warten. Als Zweithandy ist ein Handy der (oberen) Mittelklasse sicherlich keine schlechte Wahl, doch sollten hier die Erwartungen nicht besonders hoch sein... Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Softwaretechnisch will.
 
   
 
@@ -95,6 +95,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTc3MzQ5MiwzMzAxMDM2ODksLTE0NT
+eyJoaXN0b3J5IjpbLTY3Mjk2MDcwMSwzMzAxMDM2ODksLTE0NT
 MwMjU3NDVdfQ==
 -->

@@ -10,13 +10,11 @@ Da wären
 - das (Xiaomi) Redmi Note 9 [Low-End] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]
 \
 -> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
-
-
+<br/>
 - das OnePlus 7T, 8 / 8 Pro [NEU (8th-Gen.); 7T: älterer Prozessor (855+, Preis-Leistung besser)]
 \
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
-
-
+<br/>
 - das Google Pixel 4 / Pixel 4 XL [für ~500€, immer mal wieder für 450€; beide: SD 855 (alt); XL: größeres Display + Akku]
 
 #### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
@@ -88,6 +86,6 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNzAwNTcsMTA5NDkwMjc2MSwzMzAxMD
-M2ODksLTE0NTMwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbMTkzNDI5ODMwMSwxMDk0OTAyNzYxLDMzMD
+EwMzY4OSwtMTQ1MzAyNTc0NV19
 -->

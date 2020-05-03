@@ -79,11 +79,12 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
   
 
-**Ansonsten**  gibt es noch das Realme X50 Pro; vivo, OPPO, Samsung, ...-Smartphones, von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
+**Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
 
+**Ein Wort zu Huawai/Honor:**
   
 
-**Angekündigt** ist ein neues Smartphone-Lineup von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 
+**Angekündigt** ist ein neues Smartphone-Lineup von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 werden, hier ist aber noch nichts seitens Xiaomi bestätigt worden.
 
   
 
@@ -97,6 +98,6 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA5MjUxNTMsMzMwMTAzNjg5LC0xND
-UzMDI1NzQ1XX0=
+eyJoaXN0b3J5IjpbOTEzMDM2MTgzLDMzMDEwMzY4OSwtMTQ1Mz
+AyNTc0NV19
 -->

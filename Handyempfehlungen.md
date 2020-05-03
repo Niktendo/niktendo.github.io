@@ -19,11 +19,11 @@ Da wären
 
   
 
-- das Google Pixel 4 / Pixel 4 XL für ~500€, immer mal wieder für 450€ [beide: SD 855 (alt); XL: größeres Display + Akku]
+- das Google Pixel 4 / Pixel 4 XL [für ~500€, immer mal wieder für 450€; beide: SD 855 (alt); XL: größeres Display + Akku]
 
   
 
-**Zu den Prozessoren:**
+## Zu den Prozessoren:
 
 MediaTek -> Prozessoren von Low-End bis Mittelklasse-Geräten, eher langsam, keine direkte Empfehlung
 
@@ -101,6 +101,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkxNTU5MTIsMzMwMTAzNjg5LC0xND
+eyJoaXN0b3J5IjpbLTEzMDg4NjgyNjMsMzMwMTAzNjg5LC0xND
 UzMDI1NzQ1XX0=
 -->

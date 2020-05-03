@@ -21,7 +21,9 @@ Da wären
 
 - das Google Pixel 4 / Pixel 4 XL [für ~500€, immer mal wieder für 450€; beide: SD 855 (alt); XL: größeres Display + Akku]
 
-  
+#### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
+
+[https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-)
 
 ### Zu den Prozessoren:
 
@@ -50,14 +52,6 @@ Ein gutes Foto-Smartphone sollte haben:
 - OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LCD-Displays
 
 - Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckligeres" Nutzererlebnis zurückwechseln - Im High-End-Segement gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
-
-
-
-## Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
-
-[https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-)
-
-  
 
 ### Zur Speichergeschwindigkeit:
 
@@ -101,6 +95,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyMzgwNywzMzAxMDM2ODksLTE0NT
-MwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbMjc4NzY2NDE3LDMzMDEwMzY4OSwtMTQ1Mz
+AyNTc0NV19
 -->

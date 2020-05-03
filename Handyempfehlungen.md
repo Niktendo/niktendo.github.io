@@ -38,7 +38,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
 - Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K, flüssiges 4K un d eine schnell Verarbeitungszeit
 
-- Ein gutes Kameramodul (64 MP, dann aber ein sehr gutes [**OnePlus**] oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es keinen 865 hat) [Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus]
+- Ein gutes Kameramodul [64 MP (dann aber ein sehr gutes) oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es einen  hat) [Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus]
 
 ### Zum Display:
 
@@ -46,11 +46,11 @@ Ein gutes Foto-Smartphone sollte haben:
 
 - OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LCD-Displays
 
-- Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckligeres" Nutzererlebnis zurückwechseln - Im High-End-Segement gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
+- Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckeligeres" Nutzererlebnis zurück wechseln - Im High-End-Segment gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
 
 ### Zur Speichergeschwindigkeit:
 
-Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
+Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost bringt.
 
 
 ### Fazit: <a name="Fazit"></a>
@@ -86,7 +86,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MDc3NzQ4LDE4NTg0OTkwNjksNzM2ND
-c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
-XX0=
+eyJoaXN0b3J5IjpbLTE3NDYwOTI5NDAsMTg1ODQ5OTA2OSw3Mz
+Y0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3
+NDVdfQ==
 -->

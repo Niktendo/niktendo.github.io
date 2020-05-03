@@ -3,11 +3,11 @@ Da wären
 
 - das Xiaomi Mi 10 / Mi 10 Pro [sehr teuer; alle aktuellen Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP]
 
-- das Mi Note 10 [obere Mitteklasse mit 108 MP] / Note 10 Pro [obere Mittelklasse mit 108 MP; gleich wie Note 10, mehr RAM + Speicher]
+- das Mi Note 10 / Note 10 Pro [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr RAM + Speicher]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
 
-- das Redmi Note 9 [Einsteiger] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]
+- das Redmi Note 9 [Low-End] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 
@@ -101,6 +101,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjEwMDYwMiwzMzAxMDM2ODksLTE0NT
+eyJoaXN0b3J5IjpbMTU5Njg3Nzg2NSwzMzAxMDM2ODksLTE0NT
 MwMjU3NDVdfQ==
 -->

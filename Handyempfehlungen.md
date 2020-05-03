@@ -11,19 +11,18 @@ Da wären
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 
-  
 
 - das OnePlus 7T, 8 / 8 Pro [NEU (8th-Gen.); 7T: älterer Prozessor (855+, Preis-Leistung besser)]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 
-  
 
 - das Google Pixel 4 / Pixel 4 XL [für ~500€, immer mal wieder für 450€; beide: SD 855 (alt); XL: größeres Display + Akku]
 
 #### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
 
 [https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-)
+
 
 ### Zu den Prozessoren:
 
@@ -33,7 +32,7 @@ Qualcomm Snapdragon 6XX, 7XX (Prozessoren der Mittelklasse bzw. oberen Mittelkla
 
 ### Zu den Kameras:
 
-Es gilt: Megapixel sind nicht alles, aber vieles:
+Es gilt: Megapixel sind nicht alles, aber vieles!
 
 Ein gutes Foto-Smartphone sollte haben:
 
@@ -41,9 +40,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
 - Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K und flüssiges 4K + schnelle Fotoentwicklung
 
-- Ein gutes Kameramodul (64 MP, dann aber ein sehr gutes [**OnePlus**] oder 108MP (dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es keinen 865 hat) [Ausnahme:  **Pixel 4**, hier holt die Software allles der "nur" 16MP heraus]
-
-  
+- Ein gutes Kameramodul (64 MP, dann aber ein sehr gutes [**OnePlus**] oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es keinen 865 hat) [Ausnahme:  **Pixel 4**, hier holt die Software allles der "nur" 16MP heraus]
 
 ### Zum Display:
 
@@ -92,6 +89,6 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA4OTIzMywzMzAxMDM2ODksLTE0NT
+eyJoaXN0b3J5IjpbMjA2NDkxOTExNCwzMzAxMDM2ODksLTE0NT
 MwMjU3NDVdfQ==
 -->

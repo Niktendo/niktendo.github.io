@@ -2,7 +2,6 @@
 Da wären
 
 - das Xiaomi Mi 10 / Mi 10 Pro [sehr teuer; alle aktuellen Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP]
-
 - das Mi Note 10 / Note 10 Pro [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr RAM + Speicher]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
@@ -47,7 +46,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
 ### Zum Display:
 
-- Full-HD sollte ausreichen, 2K oder 4K ist besser, HD sollte vermieden werden, genauso wie geringe Pixeldichten
+- Full-HD sollte ausreichen, 2K oder 4K ist besser, "Nur-HD" sollte vermieden werden, genauso wie geringe Pixeldichten
 
 - OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LCD-Displays
 
@@ -93,8 +92,8 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 **P.S: Kaufe niemals ein Smartphone mit einem Tarif, wenn dieser nicht gerade zu einem Super-Aktionspreis in einem guten Mobilnetz zu haben ist - Ansonsten wird man oftmals über den Tisch gezogen und zahlt am Ende mehr als die UVP des Herstellers!**
 
-Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
+Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NzY2NDE3LDMzMDEwMzY4OSwtMTQ1Mz
-AyNTc0NV19
+eyJoaXN0b3J5IjpbMTUyMDAyNzM0NywzMzAxMDM2ODksLTE0NT
+MwMjU3NDVdfQ==
 -->

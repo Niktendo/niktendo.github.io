@@ -36,13 +36,14 @@ Ein gutes Foto-Smartphone sollte haben:
 
 - Eine gute Kamera-Software (auch im Low-Light): Hier führt Google mir der Google Kamera, die sich aber v.a. bei Xiaomi-Smartphones leicht nachinstallieren lässt
 
-- Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K, flüssiges 4K un d eine schnell Verarbeitungszeit
+- Mindestens einen SD 7XX, bei 108 MP meiner Meinung nach mindestens einen 8XX, vor allem für 8K, flüssiges 4K und eine schnelle Verarbeitungszeit
 
-- Ein gutes Kameramodul [64 MP (dann aber ein sehr gutes) oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es einen  hat) [Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus]
+- Ein gutes Kameramodul: 64 MP (dann aber ein sehr gutes) oder 108MP, dann aber mit entsprechender Hardware (sprich weniger das Mi Note 10, da es einen SD 730G hat) 
+Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus
 
 ### Zum Display:
 
-- Full-HD sollte ausreichen, 2K oder 4K ist besser, "Nur-HD" sollte vermieden werden, genauso wie geringe Pixeldichten
+- Full-HD sollte ausreichen, 2K oder 4K sind besser, "Nur-HD" sollte vermieden werden, genauso wie geringe Pixeldichten
 
 - OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LCD-Displays
 
@@ -86,7 +87,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYwOTI5NDAsMTg1ODQ5OTA2OSw3Mz
-Y0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3
-NDVdfQ==
+eyJoaXN0b3J5IjpbNjI3MTA4MjQ4LDE4NTg0OTkwNjksNzM2ND
+c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
+XX0=
 -->

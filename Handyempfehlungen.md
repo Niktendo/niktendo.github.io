@@ -19,7 +19,8 @@ Da wären
 
 #### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
 
-https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-
+[https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=)
+
 
 ### Zu den Prozessoren:
 
@@ -88,7 +89,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTE3Mjc0NywxODU4NDk5MDY5LDczNj
-Q3Njk4OSwxMDk0OTAyNzYxLDMzMDEwMzY4OSwtMTQ1MzAyNTc0
-NV19
+eyJoaXN0b3J5IjpbMjI3NjczNjUxLDExMTkxNzI3NDcsMTg1OD
+Q5OTA2OSw3MzY0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODks
+LTE0NTMwMjU3NDVdfQ==
 -->

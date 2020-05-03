@@ -52,7 +52,6 @@ Ein gutes Foto-Smartphone sollte haben:
 - Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckligeres" Nutzererlebnis zurückwechseln - Im High-End-Segement gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
 
 
-# <a name="leleck">leleck</a>
 
 **Meine Favoriten**  (**Mi 10, OnePlus 8, Pixel 4**) im Vergleich:
 
@@ -60,7 +59,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
   
 
-**Zur Speichergeschwindigkeit:**
+# **Zur Speichergeschwindigkeit:**
 
 Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0. 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
 

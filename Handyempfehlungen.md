@@ -25,13 +25,12 @@ Da wären
 ### Zu den Prozessoren:
 
 MediaTek: Prozessoren von Low-End bis Mittelklasse-Geräten, eher langsam, keine direkte Empfehlung
-
 Qualcomm Snapdragon 6XX, 7XX: Prozessoren der Mittelklasse bzw. oberen Mittelklasse
 Qualcomm Snapdragon 855 (Ende 2018), 855+ (Mitte 2019), 865 (Ende 2019): High-End-Prozessoren
 
 ### Zu den Kameras:
 
-Es gilt: Megapixel sind nicht alles, aber vieles!
+**Es gilt: Megapixel sind nicht alles, aber vieles!**
 
 Ein gutes Foto-Smartphone sollte haben:
 
@@ -46,7 +45,7 @@ Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus
 
 - Full-HD (1080p) sollte ausreichen, 2K oder 4K sind besser; "Nur-HD" (720p) sollte vermieden werden, genauso wie geringe Pixeldichten
 
-- OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LCD-Displays
+- OLED/AMOLED ist die "bessere" aber auch die teurere Displaytechnologie im Vergleich zu LCD - die Schwarzwerte sind besser, Farben werden natürlicher wiedergegeben und sie sind energiesparender als LC-Displays
 
 - Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckeligeres" Nutzererlebnis zurück wechseln - Im High-End-Segment gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
 
@@ -88,7 +87,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAzMDQ4ODIsMTg1ODQ5OTA2OSw3Mz
-Y0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3
-NDVdfQ==
+eyJoaXN0b3J5IjpbNDU1ODQ5ODIwLDE4NTg0OTkwNjksNzM2ND
+c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
+XX0=
 -->

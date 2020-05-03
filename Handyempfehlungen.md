@@ -1,7 +1,7 @@
 # Handyempfehlungen
 Da wären
 
-- das **Xiaomi Mi 10 / Mi 10 Pro** [sehr teuer; alle aktuellen Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP]
+- das **Xiaomi Mi 10 / Mi 10 Pro** [sehr teuer; alle aktuellen Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP Frontkamera]
 
 - das **Xiaomi Mi Note 10 / Note 10 Pro** [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr RAM + Speicher]
 
@@ -11,11 +11,11 @@ Da wären
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 <br/>
-- das **OnePlus 7T, 8 / 8 Pro** [NEU (8th-Gen.); 7T: älterer Prozessor (855+, Preis-Leistung besser)]
+- das **OnePlus 7T, 8 / 8 Pro** [NEU (8th-Gen.); 7T: älterer Prozessor (SD 855+, Preis-Leistung besser)]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 <br/>
-- das **Google Pixel 4 / Pixel 4 XL** [für ~500€, immer mal wieder für 450€; beide: SD 855 (alt); XL: größeres Display + Akku]
+- das **Google Pixel 4 / Pixel 4 XL** [für ~500€, immer mal wieder für 450€; beide: älterer Prozessor (SD 855); XL: größeres Display + Akku]
 
 #### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
 
@@ -87,7 +87,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1ODQ5ODIwLDE4NTg0OTkwNjksNzM2ND
-c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTUxMDc0MDksMTg1ODQ5OTA2OSw3Mz
+Y0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3
+NDVdfQ==
 -->

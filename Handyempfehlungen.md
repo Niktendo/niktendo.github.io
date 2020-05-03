@@ -52,7 +52,7 @@ Ein gutes Foto-Smartphone sollte haben:
 - Bildwiederholungsraten: Bei Mittelklasse-Geräten reicht 60Hz (normal), wer aber einmal ein 90Hz-Display in der Hand gehabt hat, der möchte nicht mehr auf ein "ruckligeres" Nutzererlebnis zurückwechseln - Im High-End-Segement gilt: 90Hz und 120Hz sind fast schon Standard, da höhere Wiederholungsraten aber auch mehr Akku kosten, schaltet die Software nur nach Bedarf auf höhere Wiederholungsraten
 
 
-# <a name="leleck">Test</a>
+# <a name="leleck">leleck</a>
 
 **Meine Favoriten**  (**Mi 10, OnePlus 8, Pixel 4**) im Vergleich:
 

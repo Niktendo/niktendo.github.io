@@ -83,11 +83,13 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
   
 
-**Angekündigt** ist ein neues Smartphone-Lineup von Nokia und LG, Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird.
+**Angekündigt** ist ein neues Smartphone-Lineup von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 
 
   
 
-Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Geräten nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekomm, ggfs. einfach auf ein passendes Angebot warten. Als Zweithandy ist ein Handy der (oberen) Mittelklasse sicherlich keine schlechte Wahl, doch sollten hier die Erwartungen nicht besonders hoch sein... Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Softwaretechnisch will.
+Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Geräten nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekommt (ggfs. einfach auf ein passendes Angebot warten).
+Als Zweithandy ist ein Handy der (oberen) Mittelklasse sicherlich keine schlechte Wahl, doch sollten hier die Erwartungen nicht besonders hoch sein.
+Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Softwaretechnisch will.
 
   
 
@@ -95,6 +97,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk2MDcwMSwzMzAxMDM2ODksLTE0NT
-MwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NzA5MjUxNTMsMzMwMTAzNjg5LC0xND
+UzMDI1NzQ1XX0=
 -->

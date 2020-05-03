@@ -23,13 +23,13 @@ Da wären
 
   
 
-## Zu den Prozessoren:
+### Zu den Prozessoren:
 
 MediaTek -> Prozessoren von Low-End bis Mittelklasse-Geräten, eher langsam, keine direkte Empfehlung
 
 Qualcomm Snapdragon 6XX, 7XX (Prozessoren der Mittelklasse bzw. oberen Mittelklasse), 855 (Ende 2018), 855+ (Mitte 2019), 865 (Ende 2019) [alles High-End-Prozessoren]
 
-**Zu den Kameras:**
+### Zu den Kameras:
 
 Es gilt Megapixel sind nicht alles, aber vieles:
 
@@ -43,7 +43,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
   
 
-**Zum Display:**
+### Zum Display:
 
 - Full-HD sollte ausreichen, 2K oder 4K ist besser, HD sollte vermieden werden, genauso wie geringe Pixeldichten
 
@@ -53,21 +53,21 @@ Ein gutes Foto-Smartphone sollte haben:
 
 
 
-**Meine Favoriten**  (**Mi 10, OnePlus 8, Pixel 4**) im Vergleich:
+## Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
 
 [https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10161&idPhone3=9896#diff-)
 
   
 
-**Zur Speichergeschwindigkeit:**
+### Zur Speichergeschwindigkeit:
 
 Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0. 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
 
   
 
-**Fazit:** <a name="Fazit"></a>
+### Fazit: <a name="Fazit"></a>
 
-**Wer viel Geld ausgeben möchte**, bekommt mit dem  **Mi 10 (Pro)**  auch  **sehr viel zurück**  - topaktuelle Spezifikationen und durch das Nachinstallieren der Google Kamera auch im Low Light prima Fotos und Videos auch 8K). Allerdings ist zu beachten, das hier eine stark von Xiaomi angepasste Version von Android läuft (MIUI), welche aber beinahe genauso schnell Updates wie die Pixel-Smartphones, welche direkt von Google kommen, erhalten.
+**Wer bereit ist, viel Geld auszugeben**, bekommt mit dem  **Mi 10 (Pro)**  auch  **sehr viel zurück**  - topaktuelle Spezifikationen und durch das Nachinstallieren der Google Kamera auch im Low Light prima Fotos und Videos auch 8K). Allerdings ist zu beachten, das hier eine stark von Xiaomi angepasste Version von Android läuft (MIUI), welche aber beinahe genauso schnell Updates wie die Pixel-Smartphones, welche direkt von Google kommen, erhalten.
 
   
 
@@ -101,6 +101,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg4NjgyNjMsMzMwMTAzNjg5LC0xND
-UzMDI1NzQ1XX0=
+eyJoaXN0b3J5IjpbLTE0MjkyMzgwNywzMzAxMDM2ODksLTE0NT
+MwMjU3NDVdfQ==
 -->

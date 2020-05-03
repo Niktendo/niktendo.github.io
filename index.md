@@ -1,4 +1,4 @@
-# <a name="Handyempfehlungen" href="Handyempfehlungen-3.html">Handyempfehlungen bis 400€</a>
+# <a name="Handyempfehlungen" href="Handyempfehlungen.html">Handyempfehlungen</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTkyNTUwNV19
+eyJoaXN0b3J5IjpbLTkxNTk1NjczOSwxMTcxOTI1NTA1XX0=
 -->

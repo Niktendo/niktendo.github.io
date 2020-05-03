@@ -13,7 +13,7 @@ Da wären
 
   
 
-- das OnePlus 7T, 8 / 8 Pro [NEU (8th-Gen.], das 7T hat einen 4 Monate älteren Prozessor (aber immer noch High-End und derzeit Preis-Leistungs-technisch besser)]
+- das OnePlus 7T, 8 / 8 Pro [NEU (8th-Gen.); 7T: älterer Prozessor (855+, Preis-Leistung besser)]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 
@@ -101,6 +101,6 @@ Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach
 
 Bald startender Aktionstarif im VF-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTEwNjU3MywzMzAxMDM2ODksLTE0NT
-MwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDkxNTU5MTIsMzMwMTAzNjg5LC0xND
+UzMDI1NzQ1XX0=
 -->

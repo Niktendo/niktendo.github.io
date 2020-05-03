@@ -3,7 +3,7 @@ Da wären
 
 - das **Xiaomi Mi 10 / Mi 10 Pro** [sehr teuer; alle aktuellen Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP Frontkamera]
 
-- das **Xiaomi Mi Note 10 / Note 10 Pro** [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr RAM + Speicher]
+- das **Xiaomi Mi Note 10 / Note 10 Pro** [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr Arbeitsspeicher (RAM) + Speicher]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
 
@@ -51,7 +51,8 @@ Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus
 
 ### Zur Speichergeschwindigkeit:
 
-Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost bringt.
+Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich:
+Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost bringt.
 
 
 ### Fazit: <a name="Fazit"></a>
@@ -67,7 +68,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 **Wer gute Mittelklasse-Smartphones**  sucht, macht mit dem Mi Note 10 (Pro) und dem Redmi Note 9S / Pro nichts falsch, wobei letzteres brandneu ist und noch nicht verfügbar ist. Beim Mi Note 10 hat man Kameratechnisch High-End-Hardware, allerdings ist der Prozessor "nur" ein Prozessor der oberen Mittelklasse, d.h. im 108MP-Kameramodus muss man möglicherweise längere Ladezeiten in Kauf nehmen. Preis-Leistungstechnisch sind die Redmis die bessere Wahl, wenn man keine High-End-Hardware wünscht.
 
 
-**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia btw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
+**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia btw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
 
 **Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
@@ -87,7 +88,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUxMDc0MDksMTg1ODQ5OTA2OSw3Mz
-Y0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODksLTE0NTMwMjU3
-NDVdfQ==
+eyJoaXN0b3J5IjpbLTk0MzI5NTIzLDE4NTg0OTkwNjksNzM2ND
+c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
+XX0=
 -->

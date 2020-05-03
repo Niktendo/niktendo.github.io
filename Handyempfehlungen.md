@@ -50,7 +50,7 @@ Ein gutes Foto-Smartphone sollte haben:
 
 ### Zur Speichergeschwindigkeit:
 
-Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0. 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
+Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
 
 
 ### Fazit: <a name="Fazit"></a>
@@ -71,7 +71,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
 **Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
 
-**Ein Wort zu Huawei/Honor:**
+<!--**Ein Wort zu Huawei/Honor:**-->
 
 
 **Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 werden, hier ist aber noch nichts seitens Xiaomi bestätigt worden.
@@ -86,7 +86,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzYwNzc3NSwxODU4NDk5MDY5LDczNj
-Q3Njk4OSwxMDk0OTAyNzYxLDMzMDEwMzY4OSwtMTQ1MzAyNTc0
-NV19
+eyJoaXN0b3J5IjpbNzU0MDc3NzQ4LDE4NTg0OTkwNjksNzM2ND
+c2OTg5LDEwOTQ5MDI3NjEsMzMwMTAzNjg5LC0xNDUzMDI1NzQ1
+XX0=
 -->

@@ -65,7 +65,7 @@ Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wich
 
   
 
-**Fazit:** {#leleck}
+**Fazit:** <a name="Fazit">a named anchor</a>
 
 **Wer viel Geld ausgeben möchte**, bekommt mit dem  **Mi 10 (Pro)**  auch  **sehr viel zurück**  - topaktuelle Spezifikationen und durch das Nachinstallieren der Google Kamera auch im Low Light prima Fotos und Videos auch 8K). Allerdings ist zu beachten, das hier eine stark von Xiaomi angepasste Version von Android läuft (MIUI), welche aber beinahe genauso schnell Updates wie die Pixel-Smartphones, welche direkt von Google kommen, erhalten.
 

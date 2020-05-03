@@ -59,13 +59,13 @@ Ein gutes Foto-Smartphone sollte haben:
 
   
 
-# **Zur Speichergeschwindigkeit:**
+**Zur Speichergeschwindigkeit:**
 
 Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich: Es gibt UFS 2.0. 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost erzeugt.
 
   
 
-**Fazit:**
+**Fazit:** {#leleck}
 
 **Wer viel Geld ausgeben möchte**, bekommt mit dem  **Mi 10 (Pro)**  auch  **sehr viel zurück**  - topaktuelle Spezifikationen und durch das Nachinstallieren der Google Kamera auch im Low Light prima Fotos und Videos auch 8K). Allerdings ist zu beachten, das hier eine stark von Xiaomi angepasste Version von Android läuft (MIUI), welche aber beinahe genauso schnell Updates wie die Pixel-Smartphones, welche direkt von Google kommen, erhalten.
 

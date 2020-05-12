@@ -68,7 +68,7 @@ Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen
 **Wer gute Mittelklasse-Smartphones**  sucht, macht mit dem Mi Note 10 (Pro) und dem Redmi Note 9S / Pro nichts falsch, wobei letzteres brandneu ist und noch nicht verfügbar ist. Beim Mi Note 10 hat man Kameratechnisch High-End-Hardware, allerdings ist der Prozessor "nur" ein Prozessor der oberen Mittelklasse, d.h. im 108MP-Kameramodus muss man möglicherweise längere Ladezeiten in Kauf nehmen. Preis-Leistungstechnisch sind die Redmis die bessere Wahl, wenn man keine High-End-Hardware wünscht.
 
 
-**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia btw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
+**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia bzw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
 
 **Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
@@ -89,7 +89,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NjczNjUxLDExMTkxNzI3NDcsMTg1OD
-Q5OTA2OSw3MzY0NzY5ODksMTA5NDkwMjc2MSwzMzAxMDM2ODks
-LTE0NTMwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbLTQ0ODg0OTk5MSwyMjc2NzM2NTEsMTExOT
+E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
+LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
 -->

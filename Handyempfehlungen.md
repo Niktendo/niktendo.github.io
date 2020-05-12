@@ -11,7 +11,7 @@ Da wären
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 <br/>
-- das **OnePlus 7T, 8 / 8 Pro** [NEU (8th-Gen.); 7T: älterer Prozessor (SD 855+, Preis-Leistung besser)]
+- das **OnePlus 7T, 8 / 8 Pro** [7T: ältere Gen., Prozessor (SD 855+, Preis-Leistung besser)]
 
 -> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 <br/>
@@ -89,7 +89,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjQxNTY4LDIyNzY3MzY1MSwxMTE5MT
+eyJoaXN0b3J5IjpbNjIwNjc3NzA5LDIyNzY3MzY1MSwxMTE5MT
 cyNzQ3LDE4NTg0OTkwNjksNzM2NDc2OTg5LDEwOTQ5MDI3NjEs
 MzMwMTAzNjg5LC0xNDUzMDI1NzQ1XX0=
 -->

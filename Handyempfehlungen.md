@@ -15,7 +15,7 @@ Da wären
 
 -> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 <br/>
-- das **OnePlus 7T, 8 / 8 Pro** [7T: ältere Gen., Prozessor (SD 855+, Preis-Leistung besser)]
+- das [**OnePlus 7T, 8 / 8 Pro**](https://www.oneplus.com/de/8/specs) [7T: ältere Gen., Prozessor (SD 855+, Preis-Leistung besser)]
 
 -> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 <br/>
@@ -69,17 +69,16 @@ Es gibt UFS 2.X und 3.X wobei der große Versionssprung einen erheblichen Geschw
 
 
 
-**Wer gute Mittelklasse-Smartphones**  sucht, macht mit dem Mi Note 10 (Pro) und dem Redmi Note 9S / Pro nichts falsch, wobei letzteres brandneu ist und noch nicht verfügbar ist. Beim Mi Note 10 hat man Kameratechnisch High-End-Hardware, allerdings ist der Prozessor "nur" ein Prozessor der oberen Mittelklasse, d.h. im 108MP-Kameramodus muss man möglicherweise längere Ladezeiten in Kauf nehmen. Preis-Leistungstechnisch sind die Redmis die bessere Wahl, wenn man keine High-End-Hardware wünscht.
+**Wer gute Mittelklasse-Smartphones**  sucht, ist mit dem **Mi Note 10 (Pro) und dem Redmi Note 9S / Pro** sehr gut bedient, wobei letzteres brandneu ist und noch nicht verfügbar ist. Beim Mi Note 10 hat man Kameratechnisch High-End-Hardware, allerdings ist der Prozessor "nur" ein Prozessor der oberen Mittelklasse, d.h. im 108MP-Kameramodus muss man möglicherweise längere Ladezeiten in Kauf nehmen. Preis-Leistungstechnisch sind die Redmis die bessere Wahl, wenn man keine High-End-Hardware wünscht.
 
 
-**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **ZTE nubia Red Magic 5G (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia bzw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
+**Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **[ZTE nubia Red Magic 5G](https://eu.redmagic.gg/pages/redmagic-5g-specs) (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia bzw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
 
 **Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
 
 <!--**Ein Wort zu Huawei/Honor:**-->
 <!--**5G**-->
-
 
 **Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Anfang Juni sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird.
 
@@ -92,8 +91,3 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 **P.S: Kaufe niemals ein Smartphone mit einem Tarif, wenn dieser nicht gerade zu einem Super-Aktionspreis in einem guten Mobilnetz zu haben ist - Ansonsten wird man oftmals über den Tisch gezogen und zahlt am Ende mehr als die UVP des Herstellers!**
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTM3MjI0OSwyMjc2NzM2NTEsMTExOT
-E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
-LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
--->

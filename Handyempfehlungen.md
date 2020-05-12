@@ -61,7 +61,7 @@ Es gibt UFS 2.X und 3.X wobei der große Versionssprung einen erheblichen Geschw
 
 ### Fazit: <a name="Fazit"></a>
 
-**Wem 64 MP reichen, auf 90Hz verzichten** und trotzdem topaktuelle Hardware zu einem gigantischen Preis haben möchte, ist hier perfekt bedient mit dem **Poco F2 Pro**. Es besitzt den aktuellsten Qualcomm-Prozessor, schnellen RAM und Speicher (LPDDR5 und UFS 3.1, allerdings nur in der 8GB + 256GB-Variante) und einen sehr aktuellen Fotosensor. Ansonsten besitzt es einen sehr großen Speicher, ein neuartiges Kühlungssystem, einen Klinkenanschluss und sogar NFC, ein AMOLED-Panel, 5G was für diese Preisklasse beinahe einmalig ist. Daher der **Flaggschiff-Killer 2020** schlechthin.
+**Wem 64 MP und 60Hz reichen** und trotzdem topaktuelle Hardware zu einem gigantischen Preis haben möchte, ist hier perfekt bedient mit dem **Poco F2 Pro**. Es besitzt den aktuellsten Qualcomm-Prozessor, schnellen RAM und Speicher (LPDDR5 und UFS 3.1, allerdings nur in der 8GB + 256GB-Variante) und einen sehr aktuellen Fotosensor. Ansonsten besitzt es einen sehr großen Speicher, ein neuartiges Kühlungssystem, einen Klinkenanschluss und sogar NFC, ein AMOLED-Panel, 5G was für diese Preisklasse beinahe einmalig ist. Daher der **Flaggschiff-Killer 2020** schlechthin.
 
 **Wer bereit ist, viel Geld auszugeben**, bekommt mit dem  **Mi 10 (Pro)**  auch  **sehr viel zurück**  - topaktuelle Spezifikationen und durch das Nachinstallieren der Google Kamera auch im Low Light prima Fotos und Videos auch 8K). Allerdings ist zu beachten, das hier eine stark von Xiaomi angepasste Version von Android läuft (MIUI), welche aber beinahe genauso schnell Updates wie die Pixel-Smartphones, welche direkt von Google kommen, erhalten.
 
@@ -94,5 +94,5 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTYzNzM3Nl19
+eyJoaXN0b3J5IjpbLTUyMjAwMTIwMiwyMDExNjM3Mzc2XX0=
 -->

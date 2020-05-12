@@ -11,7 +11,7 @@ Da wären
 
 -> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
 <br/>
-- das (Xiaomi) **Redmi Note 9 [Low-End] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]**
+- das [(Xiaomi) **Redmi Note 9 [Low-End] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]**](https://www.mi.com/de/redmi-note-9s/specs/)
 
 -> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 <br/>
@@ -93,7 +93,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkwNTM5OTcsMjI3NjczNjUxLDExMT
-kxNzI3NDcsMTg1ODQ5OTA2OSw3MzY0NzY5ODksMTA5NDkwMjc2
-MSwzMzAxMDM2ODksLTE0NTMwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbMTEyMjg4MTQzNywyMjc2NzM2NTEsMTExOT
+E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
+LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
 -->

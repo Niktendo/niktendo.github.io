@@ -19,7 +19,7 @@ Da wären
 
 -> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 <br/>
-- das **Google Pixel 4 / Pixel 4 XL** [für ~500€, immer mal wieder für 450€; beide: älterer Prozessor (SD 855); XL: größeres Display + Akku]
+- das [**Google Pixel 4 / Pixel 4 XL**](https://store.google.com/product/pixel_4_specs) [für ~500€, immer mal wieder für 450€; beide: älterer Prozessor (SD 855); XL: größeres Display + Akku]
 
 #### Meine Favoriten  (Mi 10, OnePlus 8, Pixel 4) im Vergleich:
 
@@ -93,7 +93,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjg4MTQzNywyMjc2NzM2NTEsMTExOT
+eyJoaXN0b3J5IjpbMTY1NTM3MjI0OSwyMjc2NzM2NTEsMTExOT
 E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
 LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
 -->

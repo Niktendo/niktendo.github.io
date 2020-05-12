@@ -1,21 +1,21 @@
 # Handyempfehlungen
 Da wären
 
-- das (Xiaomi) **Poco F2 Pro** [absoluter Flaggschiff-Killer für 500€; ähnelt stark dem Mi 10]
+- das (Xiaomi) **Poco F2 Pro** [absoluter Flaggschiff-Killer für 500€; ähnelt stark dem Mi 10] **aktuell ganz klare Kaufempfehlung!**
 
 - das **Xiaomi Mi 10 / Mi 10 Pro** [sehr teuer; absolute Top-Spezifikationen, sprich schnellen Speicher, schnellen Prozessor, 108 MP Frontkamera]
 <br/>
 - das **Xiaomi Mi Note 10 / Note 10 Pro** [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr Arbeitsspeicher (RAM) + Speicher]
 
--> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
-
+-> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9936&idPhone2=9945&idPhone3=10183#diff-)
+<br/>
 - das (Xiaomi) **Redmi Note 9 [Low-End] / Note 9S [Mittelklasse] / Note 9 Pro [oberste Mittelklasse]**
 
--> Vergleich: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
+-> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10217&idPhone2=10147&idPhone3=10192#diff-)
 <br/>
 - das **OnePlus 7T, 8 / 8 Pro** [7T: ältere Gen., Prozessor (SD 855+, Preis-Leistung besser)]
 
--> Vergleich: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
+-> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-](https://www.gsmarena.com/compare.php3?&idPhone1=9816&idPhone2=10161&idPhone3=9919#diff-)
 <br/>
 - das **Google Pixel 4 / Pixel 4 XL** [für ~500€, immer mal wieder für 450€; beide: älterer Prozessor (SD 855); XL: größeres Display + Akku]
 
@@ -91,7 +91,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk4NDQ2NywyMjc2NzM2NTEsMTExOT
-E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
-LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
+eyJoaXN0b3J5IjpbMjUwMDQ4NzE3LDIyNzY3MzY1MSwxMTE5MT
+cyNzQ3LDE4NTg0OTkwNjksNzM2NDc2OTg5LDEwOTQ5MDI3NjEs
+MzMwMTAzNjg5LC0xNDUzMDI1NzQ1XX0=
 -->

@@ -1,11 +1,11 @@
 # Handyempfehlungen
 Da wären
 
-- das (Xiaomi) **Poco F2 Pro** [absoluter Flaggschiff-Killer für 500€; ähnelt stark dem Mi 10] **aktuell ganz klare Kaufempfehlung!**
+- das (Xiaomi) **Poco F2 Pro** [absoluter **Flaggschiff-Killer** für 500€; ähnelt stark dem Mi 10] - **aktuell ganz klare Kaufempfehlung!**
 
 - das **Xiaomi Mi 10 / Mi 10 Pro** [sehr teuer; absolute Top-Spezifikationen, sprich schnellen Speicher (UFS 3.0), schneller Prozessor (SD 865), 108 MP Frontkamera]
 
-[https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10055#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10055#diff-)
+-> Vergleich Editionen: [https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10055#diff-](https://www.gsmarena.com/compare.php3?idPhone1=10082&idPhone2=10055#diff-)
 <br/>
 - das **Xiaomi Mi Note 10 / Note 10 Pro** [beide: obere Mittelklasse mit 108 MP; Note 10 Pro: mehr Arbeitsspeicher (RAM) + Speicher]
 
@@ -93,7 +93,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE1MjI0OTUsMjI3NjczNjUxLDExMT
-kxNzI3NDcsMTg1ODQ5OTA2OSw3MzY0NzY5ODksMTA5NDkwMjc2
-MSwzMzAxMDM2ODksLTE0NTMwMjU3NDVdfQ==
+eyJoaXN0b3J5IjpbNTYxNjc1MjM1LDIyNzY3MzY1MSwxMTE5MT
+cyNzQ3LDE4NTg0OTkwNjksNzM2NDc2OTg5LDEwOTQ5MDI3NjEs
+MzMwMTAzNjg5LC0xNDUzMDI1NzQ1XX0=
 -->

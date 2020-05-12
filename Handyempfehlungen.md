@@ -52,7 +52,7 @@ Ausnahme:  **Pixel 4**, hier holt die Software alles der "nur" 16 MP heraus
 ### Zur Speichergeschwindigkeit:
 
 Die Speichergeschwindigkeit wird oftmals vergessen, ist aber ebenfalls sehr wichtig beim Performance-Vergleich:
-Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen Geschwindigkeits-Boost bringt.
+Es gibt UFS 2.X und 3.X wobei der große Versionssprung einen erheblichen Geschwindigkeits-Boost bringt.
 
 
 ### Fazit: <a name="Fazit"></a>
@@ -77,7 +77,7 @@ Es gibt UFS 2.0, 2.1 und 3.0 wobei der letztere Versionssprung einen erheblichen
 <!--**5G**-->
 
 
-**Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Ende Mai sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird. Preis-Leistungs-Killer könnte das Xiaomi Poco F2 werden, hier ist aber noch nichts seitens Xiaomi bestätigt worden.
+**Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Anfang Juni sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird.
 
 
 Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Geräten nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekommt (ggfs. einfach auf ein passendes Angebot warten).
@@ -89,7 +89,7 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODg0OTk5MSwyMjc2NzM2NTEsMTExOT
-E3Mjc0NywxODU4NDk5MDY5LDczNjQ3Njk4OSwxMDk0OTAyNzYx
-LDMzMDEwMzY4OSwtMTQ1MzAyNTc0NV19
+eyJoaXN0b3J5IjpbLTExNDMyNjU1NTAsMjI3NjczNjUxLDExMT
+kxNzI3NDcsMTg1ODQ5OTA2OSw3MzY0NzY5ODksMTA5NDkwMjc2
+MSwzMzAxMDM2ODksLTE0NTMwMjU3NDVdfQ==
 -->

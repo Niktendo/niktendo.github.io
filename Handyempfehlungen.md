@@ -1,7 +1,7 @@
 # Handyempfehlungen
 Da wären
 
-- das [(Xiaomi) **Poco F2 Pro**](https://www.poco.net/global/specs/) [absoluter **Flaggschiff-Killer** für 500€; ähnelt stark dem Mi 10] - **aktuell ganz klare Kaufempfehlung!**
+- das [(Xiaomi) **Poco F2 Pro**](https://www.poco.net/global/poco-f2-pro/specs/) [absoluter **Flaggschiff-Killer** für 500€; ähnelt stark dem Mi 10] - **aktuell ganz klare Kaufempfehlung!**
 
 - das [**Xiaomi Mi 10 / Mi 10 Pro**](https://www.mi.com/de/mi-10/specs/) [sehr teuer; absolute Top-Spezifikationen, sprich schnellen Speicher (UFS 3.0), schneller Prozessor (SD 865), 108 MP Frontkamera]
 
@@ -77,7 +77,7 @@ Es gibt UFS 2.X und 3.X wobei der große Versionssprung einen erheblichen Geschw
 **Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **[ZTE nubia Red Magic 5G](https://eu.redmagic.gg/pages/redmagic-5g-specs) (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia bzw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
 
-**Ansonsten**  gibt es noch das Realme X50 Pro; Geräte von vivo, OPPO, Samsung, uvm.; von denen ich entweder zu wenig Erfahrung habe oder sie mich nicht überzeugt haben.
+**Ansonsten**  gibt es noch das Realme X50 Pro und das OPPO Find X2 Pro, sie gehören wie OnePlus und vivo zum BBK-Konzern und sind ebenalls aktuelle Flagschiffe. Mit diesen aber auch anderen Geräten wie zum Beispiel der Marke Samsung habe ich aber zu wenig Erfahrung, weswegen ich sie hier nicht liste.
 
 <!--**Ein Wort zu Huawei/Honor:**-->
 <!--**5G**-->

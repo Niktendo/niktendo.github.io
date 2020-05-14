@@ -1,7 +1,7 @@
 # Handyempfehlungen
 Da wären
 
-- das [(Xiaomi) **Poco F2 Pro**](https://www.poco.net/global/poco-f2-pro/specs/) [absoluter **Flaggschiff-Killer** für 500€; ähnelt stark dem Mi 10] - **aktuell ganz klare Kaufempfehlung!**
+- das [(Xiaomi) **Poco F2 Pro**](https://www.poco.net/global/poco-f2-pro/specs/) [absoluter **Flaggschiff-Killer** für 500€; ähnliche Merkmale wie Mi 10; Klon des Redmi K30 Pro] - **aktuell ganz klare Kaufempfehlung!**
 
 - das [**Xiaomi Mi 10 / Mi 10 Pro**](https://www.mi.com/de/mi-10/specs/) [sehr teuer; absolute Top-Spezifikationen, sprich schnellen Speicher (UFS 3.0), schneller Prozessor (SD 865), 108 MP Frontkamera]
 

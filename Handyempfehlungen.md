@@ -77,12 +77,12 @@ Es gibt UFS 2.X und 3.X wobei der große Versionssprung einen erheblichen Geschw
 **Wer die beste Hardware zum besten Preis mit (noch) schlechter Software**  wünscht, wird mit dem  **[ZTE nubia Red Magic 5G](https://eu.redmagic.gg/pages/redmagic-5g-specs) (Gaming-Smartphone)**  zufrieden - Preis-Leistungstechnisch ein absoluter Knaller, 144Hz, 64 MP und 5G für ~550€, wenn da nicht die teilweise unvollständig übersetzte Software mit einer nur "akzeptablen" Kamera-App wäre - hier sollte nubia bzw. ZTE dringend per Update nachpatchen (Testbericht: [https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php](https://www.gsmarena.com/nubia_red_magic_5g-review-2092.php)).
 
 
-**Ansonsten**  gibt es noch das Realme X50 Pro und das OPPO Find X2 Pro, sie gehören wie OnePlus und vivo zum BBK-Konzern und sind ebenalls aktuelle Flagschiffe. Mit diesen aber auch anderen Geräten wie zum Beispiel der Marke Samsung habe ich aber zu wenig Erfahrung, weswegen ich sie hier nicht liste.
+**Ansonsten**  gibt es noch das Realme X50 Pro und das OPPO Find X2 Pro, sie gehören wie OnePlus und vivo zum BBK-Konzern und sind ebenalls aktuelle Flagschiffe. Mit diesen aber auch anderen Geräten wie zum Beispiel der Marke Samsung oder LG habe ich aber zu wenig Erfahrung, weswegen ich sie hier nicht liste.
 
-<!--**Ein Wort zu Huawei/Honor:**-->
+<!--**Ein Wort zu Huawei/Honor/Apple:**-->
 <!--**5G**-->
 
-**Angekündigt** sind ein neue Smartphone-Lineups von Nokia und LG; Google wird Anfang Juni sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird.
+**Angekündigt** ist das neue Smartphone-Lineup von Nokia; Google wird Anfang Juni sein neues Mittelklasse-Smartphone, das Pixel 4a vorstellen, was, wenn sich die Preise beruhigt haben, ein solides Mittelklasse-Smartphone werden wird.
 
 
 Ich hoffe, ich konnte hiermit ein bisschen Klarheit bringen, meiner Meinung nach sollte man aber bei High-End-Geräten nicht von den Preisen zurückschrecken, da man hier sehr viel geboten bekommt (ggfs. einfach auf ein passendes Angebot warten).

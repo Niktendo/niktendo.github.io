@@ -91,5 +91,3 @@ Letzten Endes muss jeder für sich entscheiden, was er Preis-/Hardware-/ und Sof
 
 
 **P.S: Kaufe niemals ein Smartphone mit einem Tarif, wenn dieser nicht gerade zu einem Super-Aktionspreis in einem guten Mobilnetz zu haben ist - Ansonsten wird man oftmals über den Tisch gezogen und zahlt am Ende mehr als die UVP des Herstellers!**
-
-Aktueller Aktionstarif im Vodafone-Netz mit 18 GB für 18€/Monat für Vielsurfer (inkl. EU-Roaming + eSIM (Pixel 4): [https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782](https://www.mydealz.de/deals/vodafone-netz-mobilcom-debitel-green-lte-mit-18gb-lte-50-mbits-allnet-sms-flat-fur-18-monat-esim-moglich-1577782)

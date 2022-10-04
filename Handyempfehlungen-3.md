@@ -6,10 +6,11 @@ Interessanterweise sind die Angebote nach 3 Wochen noch online, fragt sich nur, 
 - Die beiden Angebote zum SE 2020 sind in Ordnung, sind halt SEs
 
 - Das Angebot zum 12 Mini ist für 128 GB gut; ich habe aber gerade zu einem günstigen Preis ein Angebot zum 12 Mini/128GB NEU gefunden:
-[https://www.ebay.de/itm/144718382044?couponcode=ebay-voucher20183&mkevt=1&mkcid=1&mkrid=707-53477-19255-0&toolid=20006&campid=5338224425&customid=KRh1du4oSDvZLFcd4CBPxw]
-Mit Gutschein POWEREBAY4 kommst du auf 584,64€ - wenn du so viel ausgeben willst, klare Kaufempfehlung, ansonsten die SEs für 300€.
+[https://www.ebay.de/itm/144718382044?couponcode=ebay-voucher20183&mkevt=1&mkcid=1&mkrid=707-53477-19255-0&toolid=20006&campid=5338224425&customid=KRh1du4oSDvZLFcd4CBPxw](https://www.ebay.de/itm/144718382044?couponcode=ebay-voucher20183&mkevt=1&mkcid=1&mkrid=707-53477-19255-0&toolid=20006&campid=5338224425&customid=KRh1du4oSDvZLFcd4CBPxw)
 
-###Zusammengefasst:
+Mit dem Gutschein POWEREBAY4 kommst du auf 584,64€ - wenn du so viel ausgeben willst, klare Kaufempfehlung, ansonsten die SEs für 300€.
+
+### Zusammengefasst:
 
 1) Die Preise für die 2020 SEs/128GB auf refurbed/backmarket sind okay, die Telefone entsprechend outdated, wenn du aber mehr Preis statt Leistung und einfach nur ein Telefon ähnlich wie du's schon hattest haben willst, machst du damit nicht viel falsch.
 

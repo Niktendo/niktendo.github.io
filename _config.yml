@@ -1,6 +1,6 @@
-title: Willkommen auf der Seite von Niktendo!
-description: Hier siehst du meine aktuellen Projekte
+title: Welcome to my Page!
+description: Projects & Scripts
 theme: jekyll-theme-cayman
 show_downloads: false
-site.lang: de-DE
-lang: de-DE
+site.lang: en-US
+lang: en-US
